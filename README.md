@@ -1,4 +1,2 @@
-# random_stuff
-Just some random stuff to be placed here
+Oxys - pixel font of the Greek alphabet
 
-and some changes in ideas too
