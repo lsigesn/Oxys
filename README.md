@@ -10,4 +10,6 @@ Typing Latin will result in the following corresponding Greek letters:
 
 The letters, especially upper and lower cases, are designed to be different to increase legibility. Breathing marks are placed to the left of letters in both upper and lower cases. Due to technical difficulties of 5\*5 grids, the glyphs @, &, Φ are different from conventional forms, with the & reverting to e-t ligature (as in Medieval manuscripts) and Φ following the convention of the classical age. As Oxys is not a color font, little anti-aliasing can be done in 5\*5 grids (though the uppercase is designed to be less aliased than lowercase to enhance legibility). Hense the name Ὀξύς (Oxys), which means "sharp, keen"  in ancient Greek.
 
+The font is licensed under the SIL Open Font License.
+
 I am currently working on the archaic Greek letters and the different weights of this font. The goal is a multiweight family supporting Basic Latin (with Latin letters replaced with Greek), Greek extended, and archaic Greek. And a color font, with anti-aliasing named "Oxeia" (ὀξεῖα, feminine of Ὀξύς) is also been developed.
