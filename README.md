@@ -12,4 +12,4 @@ Letters are designed to be different for legibility. Breathing marks are placed 
 
 The font is licensed under the SIL Open Font License.
 
-I am currently working on different weights of this font. The goal is a multiweight family supporting Basic Latin (with Latin letters replaced with Greek), Greek extended, and archaic Greek. And a color font with anti-aliasing named "Oxeia" (ὀξεῖα, feminine of Ὀξύς) is also been developed.
+I am currently working on different weights of this font. The goal is a multiweight family supporting Basic Latin (with Latin letters replaced with Greek), Greek extended, and archaic Greek. And a color font with anti-aliasing named "Oxeia" (ὀξεῖα, feminine of Ὀξύς) is also being developed.
